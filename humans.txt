@@ -2,8 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+    Ata Tuzuner - Developer - atatuzuner61
 
 # THANKS
 
